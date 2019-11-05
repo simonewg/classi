@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\classi\\classi\\classi.csproj": {}
+    "C:\\Users\\user\\Desktop\\GitHub\\classi\\classi\\classi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\classi\\classi\\classi.csproj": {
+    "C:\\Users\\user\\Desktop\\GitHub\\classi\\classi\\classi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\classi\\classi\\classi.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\GitHub\\classi\\classi\\classi.csproj",
         "projectName": "classi",
-        "projectPath": "C:\\Users\\user\\Desktop\\classi\\classi\\classi.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\GitHub\\classi\\classi\\classi.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\classi\\classi\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\GitHub\\classi\\classi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
